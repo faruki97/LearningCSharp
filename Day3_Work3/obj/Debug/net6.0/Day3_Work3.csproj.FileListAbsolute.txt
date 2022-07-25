@@ -1,0 +1,15 @@
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/bin/Debug/net6.0/Day3_Work3
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/bin/Debug/net6.0/Day3_Work3.deps.json
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/bin/Debug/net6.0/Day3_Work3.runtimeconfig.json
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/bin/Debug/net6.0/Day3_Work3.dll
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/bin/Debug/net6.0/Day3_Work3.pdb
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.csproj.AssemblyReference.cache
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.AssemblyInfoInputs.cache
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.AssemblyInfo.cs
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.csproj.CoreCompileInputs.cache
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.dll
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/refint/Day3_Work3.dll
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.pdb
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/Day3_Work3.genruntimeconfig.cache
+/Users/faruk/Downloads/KampIntro-master/Day3_Work3/obj/Debug/net6.0/ref/Day3_Work3.dll
